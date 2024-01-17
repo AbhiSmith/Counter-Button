@@ -1,5 +1,5 @@
-# Counter button using (###useState) and (###useEffect)
+# Counter button using `useState` and `useEffect`
 
 
 
-###Abhishek_Singh
+###`Abhishek_Singh`
