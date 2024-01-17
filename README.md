@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Counter button using useState and useEffect
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
